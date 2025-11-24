@@ -1,0 +1,5 @@
+{
+  "name": "Gemini DuoChat",
+  "description": "Two AI agents conversing with each other in real-time using Gemini Live API.",
+  "requestFramePermissions": []
+}
